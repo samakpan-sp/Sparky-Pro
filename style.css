@@ -500,8 +500,8 @@ img {
 /* Contact styling */
 .contact {
     /* background-image: url("./Media files/image-2.jpg") no-repeat fixed; */
-    background: url("./Media\ files/grassland.jpg");
-    color: rgb(248, 248, 248);
+    background: url("grassland.jpg");
+    color: rgb(1, 2, 7);
     padding: 10rem 20rem;
 }
 
